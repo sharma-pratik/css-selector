@@ -1,0 +1,11 @@
+.item > .views-field.views-field-nothing > .field-content > .col-sm-6.lbl-licitacao > font > font:nth-child(1){
+    color: red;
+}
+
+.item > .views-field.views-field-nothing > .field-content > p > font > font:nth-child(1){
+    color: red;
+}
+
+a[href] > font> font{
+    color:red;
+}
